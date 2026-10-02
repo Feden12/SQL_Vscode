@@ -1,0 +1,1 @@
+-- What are the top skills based on salary?
